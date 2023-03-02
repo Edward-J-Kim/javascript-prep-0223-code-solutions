@@ -5,9 +5,9 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
-
+any value type and any reference type
 - Describe the syntax (structure) of object-literals in JavaScript.
-
+Spaces and line breaks are not important. An object definition can span multiple lines
 ## Notes
 
 All student notes should be written here.
